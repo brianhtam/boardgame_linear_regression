@@ -29,9 +29,7 @@ linear model. The R2 score is `##` and it has a RMSE is `##`. The blog post abou
 * `notebooks/`
     - `Data Acquisition & Cleaning.ipynb` contains all web-scraping, API requests, and 
        data cleaning/preparation for this project.
-    - `EDA & Modeling Workbook (Project V1).ipynb` contains analysis and modeling for the project's initial 
-       scope, which was to predict Pitchfork Album Ratings. I late pivoted to the scope of Project V2 (below).
-    - `FINAL EDA & Modeling Workbook (Project V2).ipynb` contains the final analysis and modeling for predicting 
+    - `EDA & Modeling Workbook (Project V1).ipynb` contains the analysis and modeling for predicting 
        Boardgame retail success. 
 * `utilities/`
     - `data_acquisition_utilities.py` contains functions used in `Data Acquisition & Cleaning.ipynb`.
