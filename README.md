@@ -6,7 +6,7 @@ I made using [Streamlit](https://www.streamlit.io/).
 Read the [blog post](https://brianhtam.github.io/).
 
 #### Description
-Predicting Boardgames "popularity" scores using linear regression and statistics from the BoardGameGeek 
+Predicting Boardgame retail "Success" using linear regression and statistics from the BoardGameGeek 
 API. 
 
 The popularity of a track is algorithmically calculated, and is a combination of how many plays a track has and 
@@ -15,7 +15,7 @@ the [Metis](https://thisismetis.com) data science program.
 
 The model in `data/final_model.pkl` was trained on BoardGameGeek statistics and other data defined below, using a Lasso 
 linear model. The R2 score is `##` and it has a RMSE is `##`. The blog post about it is 
-[here](https://stephenjkaplan.github.io/).
+[here](https://brianhtam.github.io/).
 
 #### Data Sources
 * [BoardGameGeek](https://boardgamegeek.com/browse/boardgame) 
@@ -32,7 +32,7 @@ linear model. The R2 score is `##` and it has a RMSE is `##`. The blog post abou
     - `EDA & Modeling Workbook (Project V1).ipynb` contains analysis and modeling for the project's initial 
        scope, which was to predict Pitchfork Album Ratings. I late pivoted to the scope of Project V2 (below).
     - `FINAL EDA & Modeling Workbook (Project V2).ipynb` contains the final analysis and modeling for predicting 
-       Spotify popularity scores. 
+       Boardgame retail success. 
 * `utilities/`
     - `data_acquisition_utilities.py` contains functions used in `Data Acquisition & Cleaning.ipynb`.
     - `modeling_utilities.py` contains functions used in the modeling Jupyter Notebooks.
