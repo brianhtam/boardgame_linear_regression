@@ -6,8 +6,8 @@ I made using [Streamlit](https://www.streamlit.io/).
 Read the [blog post](https://brianhtam.github.io/).
 
 #### Description
-Predicting Boardgame retail "Success" using linear regression and statistics from the BoardGameGeek 
-API. 
+Predicting Boardgame retail "success" using linear regression and statistics from the BoardGameGeek 
+API. Success is measured by the number of people who indicated that they own the game on BoardGameGeek's website.  
 
 The popularity of a track is algorithmically calculated, and is a combination of how many plays a track has and 
 how recent those plays are. This was developed over a 2-week span in October 2020 as a project for 
