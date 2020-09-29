@@ -1,4 +1,4 @@
-# Boardgame Success Predictor
+# Boardgame Retail Success Predictor
 
 Play around with the model and make predictions using the [web app](https://boardgames_popularity_predictor.herokuapp.com/)
 I made using [Streamlit](https://www.streamlit.io/).
