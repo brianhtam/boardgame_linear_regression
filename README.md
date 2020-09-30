@@ -51,4 +51,3 @@ or by creating an Anaconda environment:
 Additionally, in order to completely run `Data Acquisition & Cleaning.ipynb` notebook, you'll need to:
 
 1. Install [ChromeDriver](https://chromedriver.chromium.org/getting-started).
-2. Generate [Spotify API Credentials](https://developer.spotify.com/documentation/general/guides/authorization-guide/).
