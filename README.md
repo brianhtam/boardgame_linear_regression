@@ -1,12 +1,12 @@
 # Boardgame Retail Success Predictor
 
-Play around with the model and make predictions using the [web app](https://boardgames_popularity_predictor.herokuapp.com/)
+Play around with the model and make predictions using the [web app](https://frozen-sierra-31974.herokuapp.com/)
 I made using [Streamlit](https://www.streamlit.io/).
 
-Read the [blog post](https://brianhtam.github.io/).
+Checkout my [blog post](https://brianhtam.github.io/).
 
 #### Description
-Predicting Boardgame retail "success" using linear regression and statistics from the BoardGameGeek 
+Predicting Boardgame retail volume using by fitting a linear regression model on the data from the BoardGameGeek 
 API. Success is measured by the number of people who indicated that they own the game on BoardGameGeek's website.  
 
 This project was developed over a 2-week span in October 2020 as a project for 
